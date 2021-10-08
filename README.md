@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harry9713
 - 👀 I’m interested in Scientific data analysis, Datascience and IoT
 - 🌱 I’m currently learning python and micropython
-- 💞️ Love the learning curve of everything. :)
+- 💞️ Love watching movies and series (suggest some good mystery/thriller/drama movies and series ;) )
 - 📫 Reach me on harisree9713@gmail.com
 
 <!---
